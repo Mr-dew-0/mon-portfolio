@@ -3,64 +3,13 @@
     padding: 0px;
     margin: 0px; 
 }
-body{
-    width: 100vw;
-    height: 98vh;
-    background-color: white;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-#page{
-    width: 96%;
-    height: 90%;
-    display: flex;
-    flex-direction:column ;
-}
-#dew{
-    width: 100%;
-    height: 5%;
-}
-#down{
-    width: 100%;
-    height: 70%;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-
-
-}
-#window{
-    width: 80%;
-    height: 80%;
-    display: flex;
-    flex-direction: column;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 a{
     text-decoration: none;
     color: white;
 }
 
 
-/*#window{
+#window{
     margin-top: 12%;
     margin: 2px;
     background: -webkit-linear-gradient( rgba(0, 0, 0, 0.8),  #60646C, #60646C, rgba(0, 0, 0, 0.8));
@@ -122,7 +71,7 @@ main{
     justify-content: center;
     margin-top: 50px;
     margin-left: 20px;
-    /* background: -webkit-linear-gradient( rgba(0, 0, 0, 0.8),  #60646C, #60646C, rgba(0, 0, 0, 0.8));
+    /* background: -webkit-linear-gradient( rgba(0, 0, 0, 0.8),  #60646C, #60646C, rgba(0, 0, 0, 0.8));*/
 }
 #photo{
     border-radius: 100px;
@@ -136,7 +85,7 @@ main{
     height: 100%;
     display: flex;
     flex-direction: column;
-    /* align-items: center;
+    /* align-items: center;*/
     justify-content: center;
 }
 #qme{
@@ -156,7 +105,7 @@ main{
     margin-top: 20px;
 }
 
-/* ANIMATION
+/* ANIMATION */
 #baoze{
     font-weight: bold;
     font-size: 0.6rem;
@@ -168,22 +117,22 @@ main{
 }
 @keyframes ninja{
     from{
-        /* margin-left: 0%;
+        margin-left: 0%;
         width: 220px;
         color: wheat;
     }
     16.5%{
-        /* margin-left: 20%;
+        margin-left: 20%;
         width: 220px;
         color: red;
     }
     33%{
-        /* margin-left: 40%;
+        margin-left: 40%;
         width: 220px;
         color: green;
     }
     46.5%{
-        /* margin-left: 60%;
+        margin-left: 60%;
         width: 220px;
         color: blue;
     }
@@ -227,7 +176,7 @@ main{
     }
 }
 
-/* Partie deux: ABOUT
+/* Partie deux: ABOUT */
 
 #about{
     display: flex;
@@ -245,7 +194,7 @@ main{
     box-shadow: 1px 1px 1px 2px navy;
 }
 
-/* partie trois: PROJECTS
+/* partie trois: PROJECTS */
 
 #projects{
     display: flex;
@@ -258,7 +207,7 @@ main{
     border-radius: 20px;
 }
 
-/* partie quatre: CONTACTS
+/* partie quatre: CONTACTS */
 
 #contactMe{
     background-color: white;
@@ -298,4 +247,37 @@ main{
 }
 .formalite{
     font-size: 0.7rem;
-}*/
+}
+/* body{
+    width: 100vw;
+    height: 98vh;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#page{
+    width: 96%;
+    height: 90%;
+    display: flex;
+    flex-direction:column ;
+}
+#dew{
+    width: 100%;
+    height: 5%;
+}
+#down{
+    width: 100%;
+    height: 70%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+
+}
+#window{
+    width: 80%;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+} */
